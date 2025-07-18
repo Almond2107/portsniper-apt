@@ -1,0 +1,16 @@
+Package: portsniper
+Version: 1.0
+Architecture: all
+Maintainer: Your Name <almond2109@gmail.com>
+Depends: python3
+Filename: ./pool/main/p/portsniper/portsniper.deb
+Size: 2548
+MD5sum: 6968543dfa56a6b3815a738f03641cc2
+SHA1: 93a5a6502fb6ae8a935271de5e7d4f436c3f15ed
+SHA256: 2af2e53f5e7b98b92708024e8c4fba9fdf73476b1557fe81b02d1884eb10336b
+Section: net
+Priority: optional
+Description: PortSniper - Fast and flexible port scanner
+ PortSniper is a command-line port scanner written in Python.
+ It supports threaded scanning, service detection, and banner grabbing.
+
