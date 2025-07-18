@@ -1,11 +1,11 @@
-#  PortSniper APT Repository
+#  PortSniper
 
 Welcome to the official APT repository for **PortSniper** — a fast, flexible, and lightweight command-line port scanner written in Python.
 
 With this repo, you can install PortSniper just like any other tool using `apt install`, without cloning or chmodding anything manually.
 
 
-## 🛠️ What is PortSniper?
+##  What is PortSniper?
 
 PortSniper is a modern port scanner for security researchers, developers, and sysadmins.
 
